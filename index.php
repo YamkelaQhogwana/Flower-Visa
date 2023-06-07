@@ -16,6 +16,6 @@
     <a href="home.php" id="prototype-link">VIEW PROTOTYPE</a>
   </div>
 
-  <script src="js/index.js"></script>
+  <script src="js/welcome.js"></script>
   </body>
 </html>
